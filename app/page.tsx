@@ -18,12 +18,13 @@ export default async function Home() {
         <div className="mx-auto grid grid-cols-1 items-center justify-items-center gap-10 px-8 sm:px-16 md:grid-cols-2">
           <div className="max-w-md space-y-5">
             <h2 className="text-4xl font-extrabold tracking-tight md:text-5xl">
-              Discover Quality. Shop Smart.
+              Bringing India’s Marketplace to You
             </h2>
             <p className="text-neutral-700 leading-relaxed">
-              Welcome to <span className="font-semibold">TrendMart</span> — a
-              modern eCommerce experience built for simplicity, speed, and
-              style. Browse exclusive deals curated just for you.
+              Welcome to <span className="font-semibold">BharatBuy</span> — a
+              fresh and fast eCommerce platform built for modern India. From
+              daily essentials to trending gadgets, explore everything in one
+              vibrant place.
             </p>
             <Button
               asChild
