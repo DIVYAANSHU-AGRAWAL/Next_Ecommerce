@@ -1,78 +1,45 @@
-# Full‑Stack Ecommerce Platform Tutorial
+# 🛍️ BharatBuy - ECommerce Application
 
 <div align="center">
   <br />
-  <a href="https://youtu.be/DLeAPn5-TIA" target="_blank">
-    <img src="./banner.png" alt="Project Banner">
+  <a href="https://next-ecommerce-orcin-one.vercel.app/" target="_blank">
+    <img src="./banner.png" alt="Next E-Commerce Banner" />
   </a>
   <br />
   <div>
-    <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=next.js" alt="Next.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-Stripe-6772e5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-    <img src="https://img.shields.io/badge/-Zustand-000?style=for-the-badge" alt="Zustand" />
+    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-Stripe-6772E5?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+    <img src="https://img.shields.io/badge/-Zustand-000000?style=for-the-badge&logoColor=white" alt="Zustand" />
+    <img src="https://img.shields.io/badge/-ShadCN_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN UI" />
+    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
   </div>
-  <h3 align="center">Build a Modern Ecommerce Platform</h3>
+  <h3 align="center">A Modern, Full-Stack E-Commerce Platform Built with Next.js</h3>
   <div align="center">
-    Follow along with our detailed tutorial on 
-    <a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank"><b>YouTube</b></a>
+    <a href="https://next-ecommerce-orcin-one.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> •
+    <a href="https://github.com/DIVYAANSHU-AGRAWAL/Next_Ecommerce" target="_blank"><b>💻 GitHub Repo</b></a>
   </div>
   <br />
 </div>
 
-## 📋 Table of Contents
-
-1. [Introduction](#introduction)
-2. [Tech Stack](#tech-stack)
-3. [Features](#features)
-4. [Quick Start](#quick-start)
-5. [Code Snippets](#code-snippets)
-6. [Assets & More](#assets--more)
-
-## 🚀 Introduction
-
-In this video tutorial, you'll learn how to build a fully functional ecommerce platform using modern web technologies such as Next.js 15, Tailwind CSS v4, Stripe for payments, and Zustand for state management. This project focuses on building a sleek, responsive frontend with a secure payment flow—without using a backend database like Prisma, Postgres, or Neon.
-
-Watch the tutorial on [YouTube](https://youtu.be/YOUR_VIDEO_LINK).
-
-## ⚙️ Tech Stack
-
-- **Next.js 15** – For server components and modern routing
-- **Tailwind CSS v4** – For rapid, responsive styling using a CSS‑first configuration
-- **TypeScript** – For type safety and modern JavaScript features
-- **Stripe** – For product management and payment processing
-- **Zustand** – For lightweight client‑side state management
+---
+## This project demonstrates full-stack concepts like:
+  - Server-side rendering (SSR)
+  - State persistence
+  - Real-time Stripe checkout flow
+  - Modular, component-driven UI design
 
 ## ⚡️ Features
 
-- **Dynamic Product Carousel:**  
-  A landing page featuring an auto‑cycling carousel that showcases your top products.
+- **Dynamic Product Carousel** – Showcases top products on the landing page.  
+- **Stripe Payment Integration** – Real-time checkout and secure transactions.  
+- **Global Cart Management** – Persistent cart state powered by Zustand.  
+- **Modern UI** – Clean, accessible, and responsive interface with ShadCN + Tailwind.  
+- **Server-Side Rendering (SSR)** – Faster page loads and SEO benefits.  
+- **Deployed on Vercel** – Fast, scalable, and production-ready hosting.
 
-- **Responsive Product Pages:**  
-  Detailed pages with interactive plus/minus buttons to adjust item quantities in the cart.
+## Live Link
+🔗 next-ecommerce-orcin-one.vercel.app
 
-- **Real‑Time Cart State:**  
-  A live-updating cart icon in the navbar using Zustand.
 
-- **Seamless Stripe Checkout:**  
-  A secure checkout process powered by Stripe's API.
-
-- **Modern UI:**  
-  A sleek, professional design built with Tailwind CSS v4 and shadcn‑inspired UI components.
-
-## 👌 Quick Start
-
-### Prerequisites
-
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/en/)
-- [npm](https://www.npmjs.com/)
-
-### Cloning the Repository
-
-Run the following commands in your terminal:
-
-```bash
-git clone https://github.com/yourusername/your-ecommerce-repo.git
-cd your-ecommerce-repo
