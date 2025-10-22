@@ -38,7 +38,14 @@
 - **Server-Side Rendering (SSR)** – Faster page loads and SEO benefits.  
 - **Deployed on Vercel** – Fast, scalable, and production-ready hosting.
 
+## Make sure you have the following installed:
+  - [Git](https://git-scm.com/)
+  - [Node.js](https://nodejs.org/)
+  - [npm](https://www.npmjs.com/)
+
+## Add your Stripe keys in .env.local
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_publishable_key
+STRIPE_SECRET_KEY=your_secret_key
+
 ## Live Link
 🔗 next-ecommerce-orcin-one.vercel.app
-
-
