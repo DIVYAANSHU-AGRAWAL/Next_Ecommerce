@@ -42,5 +42,5 @@
  - NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_publishable_key
  - STRIPE_SECRET_KEY=your_secret_key
 
-## Live Link
-🔗 next-ecommerce-orcin-one.vercel.app
+🔗 [Live Demo](https://next-ecommerce-orcin-one.vercel.app/)
+
