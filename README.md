@@ -17,8 +17,7 @@
   </div>
   <h3 align="center">A Modern, Full-Stack E-Commerce Platform Built with Next.js</h3>
   <div align="center">
-    <a href="https://next-ecommerce-orcin-one.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> •
-    <a href="https://github.com/DIVYAANSHU-AGRAWAL/Next_Ecommerce" target="_blank"><b>💻 GitHub Repo</b></a>
+    <a href="https://next-ecommerce-orcin-one.vercel.app/" target="_blank"><b>🌐 Live Demo</b></a> 
   </div>
   <br />
 </div>
