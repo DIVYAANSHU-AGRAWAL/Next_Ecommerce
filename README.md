@@ -1,11 +1,6 @@
 # 🛍️ BharatBuy - ECommerce Application
 
 <div align="center">
-  <br />
-  <a href="https://next-ecommerce-orcin-one.vercel.app/" target="_blank">
-    <img src="./banner.png" alt="Next E-Commerce Banner" />
-  </a>
-  <br />
   <div>
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
     <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
